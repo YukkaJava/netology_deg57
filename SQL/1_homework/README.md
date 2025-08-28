@@ -17,4 +17,25 @@
 
 ![Задание 1](https://github.com/YukkaJava/netology_deg57/blob/main/SQL/1_homework/1.png)
 
+## Задание 2.
+
+ER-диаграма таблиц учебной БД dvd-rental
+![Задание 2](https://github.com/YukkaJava/netology_deg57/blob/main/SQL/1_homework/2.png)
+
+## Задание 3.
+
+Таблицы, которые имеют ограничения первичных ключей
+![Задание 3](https://github.com/YukkaJava/netology_deg57/blob/main/SQL/1_homework/3.png)
+
+## Задание 4.
+
+Результат SQL-запроса "SELECT * FROM country" к БД dvd-rental:
+
+[SQL-файл запроса](https://github.com/YukkaJava/netology_deg57/blob/main/SQL/1_homework/Script.sql)
+
+![Задание 4](https://github.com/YukkaJava/netology_deg57/blob/main/SQL/1_homework/4.png)
+
+
+
+
 
